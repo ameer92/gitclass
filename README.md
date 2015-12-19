@@ -1,0 +1,2 @@
+# gitclass
+Workshop git
